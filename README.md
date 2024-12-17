@@ -1,3 +1,4 @@
+
 # Bootstrap Photo Page Assignment
 
 ## **Overview**
@@ -7,7 +8,8 @@ This project replicates the provided photo using **only Bootstrap** (no custom C
 - **Bootstrap 5** (CDN)
 - **HTML**
   
-## **Screenshot of the Page**
+## **Design References**
+Below are the images used as design references for this task:
 
-[![Preview ](https://drive.google.com/uc?export=view&id=15to9LnAUhRpe4sufRyMTa6pRjCpRC9Js)
+![Preview ](https://drive.google.com/uc?export=view&id=15to9LnAUhRpe4sufRyMTa6pRjCpRC9Js)
 ---
