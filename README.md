@@ -5,8 +5,7 @@ This project replicates the provided photo using **only Bootstrap** (no custom C
 
 ## **Screenshot of the Page**
 
-[![Preview of the Page](https://drive.google.com/uc?export=view&id=15to9LnAUhRpe4sufRyMTa6pRjCpRC9Js/view?usp=drive_link)
-
+[![Preview ](https://drive.google.com/uc?export=view&id=15to9LnAUhRpe4sufRyMTa6pRjCpRC9Js)
 ---
 
 ## **Technologies Used**
